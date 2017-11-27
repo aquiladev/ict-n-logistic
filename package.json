@@ -1,0 +1,25 @@
+{
+  "name": "ict-n-logistic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquiladev/ict-n-logistic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquiladev/ict-n-logistic/issues"
+  },
+  "homepage": "https://github.com/aquiladev/ict-n-logistic#readme",
+  "dependencies": {
+    "reveal.js": "3.6.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "4.2.3"
+  }
+}
