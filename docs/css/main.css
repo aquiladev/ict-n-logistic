@@ -75,19 +75,19 @@ body {
     top: -50px;
   }
   
-  .main .invoice {
+  .main .goods {
     height: 160px;
     width: 100%;
-    background-image: url(../images/invoice00.png);
+    background-image: url(../images/goods02.png);
     background-size: 100% 160px;
     position: absolute;
     top: 46px;
   }
   
-  .main .goods {
+  .main .invoice {
     height: 160px;
     width: 100%;
-    background-image: url(../images/goods02.png);
+    background-image: url(../images/invoice00.png);
     background-size: 100% 160px;
     position: absolute;
     top: 208px;
