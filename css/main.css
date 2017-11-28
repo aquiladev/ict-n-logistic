@@ -66,6 +66,42 @@ body {
     margin-left: -80px;
   }
 
+  .main .order {
+    height: 94px;
+    width: 100%;
+    background-image: url(../images/order00.png);
+    background-size: 100% 94px;
+    position: absolute;
+    top: -50px;
+  }
+  
+  .main .invoice {
+    height: 160px;
+    width: 100%;
+    background-image: url(../images/invoice00.png);
+    background-size: 100% 160px;
+    position: absolute;
+    top: 46px;
+  }
+  
+  .main .goods {
+    height: 160px;
+    width: 100%;
+    background-image: url(../images/goods02.png);
+    background-size: 100% 160px;
+    position: absolute;
+    top: 208px;
+  }
+  
+  .main .payment {
+    height: 94px;
+    width: 100%;
+    background-image: url(../images/payment00.png);
+    background-size: 100% 94px;
+    position: absolute;
+    top: 374px;
+  }
+
   .main .excl {
     height: 60px;
     width: 60px;
